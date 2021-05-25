@@ -17,7 +17,7 @@ Github: [https://github.com/SUQIGUANG](https://github.com/SUQIGUANG)
 
 
 
-### Intrests
+### Interests
 
 - SLAM
 - Robotics

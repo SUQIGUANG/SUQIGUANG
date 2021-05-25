@@ -24,12 +24,3 @@ Github: [https://github.com/SUQIGUANG](https://github.com/SUQIGUANG)
 - Computer Vision
 
 ------
-
-
-
-### Papers
-
-None
-
-
-
